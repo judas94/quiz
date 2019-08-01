@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/a5459c5c2d39af024b86bf907907894f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/pd/.gradle/caches/transforms-2/files-2.1/2b3805c6c87bc4c18de741ff607de462/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/009371b02b2d02e1f62469238570dc30/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/15f04f01c919f4f88b1afee4f137aadb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/42bb759fb109d5fb91a60b7b84b72ab1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/462e9b53a2c4f39aa704194b28eea2ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/d137b1ec4809f1c6d02dcab79f939701/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/0cd082a6544aea95131a399008bf5027/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/c81d6845e12c6827d1baa16405128f17/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/3fe0407649836c48d347815b7dc95507/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/ba66deee56ac1a093e6a2e7d6053a5e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/248682ff5e9d8caba5f8786fad0f6aad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/4a5a8c15c75b75d26a8acae4fac64168/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/fbc5b2d9580389e57b7e4a94f370a132/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/6d01dba4061488e387c121f4f52331a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/9ecccb32bd5984ac53563d08e0fde7f2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/77f5ce07b7c729ca100721b66dee374f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/b886913bf8732baf084fa44b24dcd17a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/pd/.gradle/caches/transforms-2/files-2.1/85508f847f12dfdc7d650c5464f785fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/b875af5c9bb4c9be0d741345ffa6c9fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/308bb7520dac0a912c94e432880aa185/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/5daf5537d32bb8474ecaae3f67bb9a95/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/pd/.gradle/caches/transforms-2/files-2.1/85e850920c58fc8aa5b8466b368e7550/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/pd/.gradle/caches/transforms-2/files-2.1/4141861698d0bd67693fce78bf1a076c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/pd/.gradle/caches/transforms-2/files-2.1/c68193b16a83d61bc01ec466ebeedbb9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/pd/.gradle/caches/transforms-2/files-2.1/18673bdb6cfb7d2148c461d7410c7be4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/e62dba5c7af67b91898aad01747185d0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+		ADDED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+		ADDED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/pd/.gradle/caches/transforms-2/files-2.1/2b3805c6c87bc4c18de741ff607de462/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/pd/.gradle/caches/transforms-2/files-2.1/2b3805c6c87bc4c18de741ff607de462/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/9ecccb32bd5984ac53563d08e0fde7f2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/9ecccb32bd5984ac53563d08e0fde7f2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/77f5ce07b7c729ca100721b66dee374f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/77f5ce07b7c729ca100721b66dee374f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/9ecccb32bd5984ac53563d08e0fde7f2/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.deitel.flagquizgame.MainActivity
+ADDED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+INJECTED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/a5459c5c2d39af024b86bf907907894f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/a5459c5c2d39af024b86bf907907894f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/pd/.gradle/caches/transforms-2/files-2.1/2b3805c6c87bc4c18de741ff607de462/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/pd/.gradle/caches/transforms-2/files-2.1/2b3805c6c87bc4c18de741ff607de462/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/009371b02b2d02e1f62469238570dc30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/009371b02b2d02e1f62469238570dc30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/15f04f01c919f4f88b1afee4f137aadb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/15f04f01c919f4f88b1afee4f137aadb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/42bb759fb109d5fb91a60b7b84b72ab1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/42bb759fb109d5fb91a60b7b84b72ab1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/462e9b53a2c4f39aa704194b28eea2ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/462e9b53a2c4f39aa704194b28eea2ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/d137b1ec4809f1c6d02dcab79f939701/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/d137b1ec4809f1c6d02dcab79f939701/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/0cd082a6544aea95131a399008bf5027/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/0cd082a6544aea95131a399008bf5027/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/c81d6845e12c6827d1baa16405128f17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/c81d6845e12c6827d1baa16405128f17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/3fe0407649836c48d347815b7dc95507/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/3fe0407649836c48d347815b7dc95507/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/ba66deee56ac1a093e6a2e7d6053a5e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/ba66deee56ac1a093e6a2e7d6053a5e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/248682ff5e9d8caba5f8786fad0f6aad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/248682ff5e9d8caba5f8786fad0f6aad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/4a5a8c15c75b75d26a8acae4fac64168/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/4a5a8c15c75b75d26a8acae4fac64168/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/fbc5b2d9580389e57b7e4a94f370a132/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/fbc5b2d9580389e57b7e4a94f370a132/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/6d01dba4061488e387c121f4f52331a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/6d01dba4061488e387c121f4f52331a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/9ecccb32bd5984ac53563d08e0fde7f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/9ecccb32bd5984ac53563d08e0fde7f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/77f5ce07b7c729ca100721b66dee374f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/77f5ce07b7c729ca100721b66dee374f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/b886913bf8732baf084fa44b24dcd17a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/b886913bf8732baf084fa44b24dcd17a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/pd/.gradle/caches/transforms-2/files-2.1/85508f847f12dfdc7d650c5464f785fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/pd/.gradle/caches/transforms-2/files-2.1/85508f847f12dfdc7d650c5464f785fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/b875af5c9bb4c9be0d741345ffa6c9fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/b875af5c9bb4c9be0d741345ffa6c9fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/308bb7520dac0a912c94e432880aa185/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/308bb7520dac0a912c94e432880aa185/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/5daf5537d32bb8474ecaae3f67bb9a95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/5daf5537d32bb8474ecaae3f67bb9a95/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/pd/.gradle/caches/transforms-2/files-2.1/85e850920c58fc8aa5b8466b368e7550/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/pd/.gradle/caches/transforms-2/files-2.1/85e850920c58fc8aa5b8466b368e7550/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/pd/.gradle/caches/transforms-2/files-2.1/4141861698d0bd67693fce78bf1a076c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/pd/.gradle/caches/transforms-2/files-2.1/4141861698d0bd67693fce78bf1a076c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/pd/.gradle/caches/transforms-2/files-2.1/c68193b16a83d61bc01ec466ebeedbb9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/pd/.gradle/caches/transforms-2/files-2.1/c68193b16a83d61bc01ec466ebeedbb9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/pd/.gradle/caches/transforms-2/files-2.1/18673bdb6cfb7d2148c461d7410c7be4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/pd/.gradle/caches/transforms-2/files-2.1/18673bdb6cfb7d2148c461d7410c7be4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/e62dba5c7af67b91898aad01747185d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/pd/.gradle/caches/transforms-2/files-2.1/e62dba5c7af67b91898aad01747185d0/AndroidManifest.xml:20:5-44
+INJECTED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+INJECTED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+		ADDED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+		ADDED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pd/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
